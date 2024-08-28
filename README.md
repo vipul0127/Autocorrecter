@@ -59,6 +59,4 @@ example
 
 For any questions or feedback, please reach out to me at [Vipul22576@iiitd.ac.in](mailto:Vipul22576@iiitd.ac.in).
 
----
 
-This format includes a placeholder for your webpage screenshot image, which you can update with the actual path or URL to your image.![image](https://github.com/user-attachments/assets/39021d56-79ed-4d28-9f33-580c5b26dc29)
