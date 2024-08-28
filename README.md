@@ -31,8 +31,6 @@ The interface is styled using simple CSS to ensure a clean and user-friendly exp
 
 ### Webpage Preview
 
-![Webpage Screenshot](path_to_your_image) 
-
 ![image](https://github.com/user-attachments/assets/39021d56-79ed-4d28-9f33-580c5b26dc29)
 
 
